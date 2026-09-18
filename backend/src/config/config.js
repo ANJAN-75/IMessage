@@ -16,4 +16,5 @@ const config={
     FROENTEND_URL
 }
 
+
 export default config
